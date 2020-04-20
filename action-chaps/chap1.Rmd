@@ -1,0 +1,86 @@
+<!--The introduction states  the topic  and  the  main questions  to be  explored-->
+
+Low performance in Mathematics is a prevalent problem among high school students in the Philippines. As revealed in the Trends in International Mathematics and Science Study (TIMMS) conducted in 1995, 1999 and 2003, the Philippines was consistently ranked among the five least performing countries [@gun20]. Similarly, the results of the 2018 Programme for International Student Assessment (PISA) Survey showed that among the 79 countries that are members of the Organization for Economic Co-operation and Development (OECD), the Philippines is the second worst performer in Mathematics [@lle19]. These results are also similar to the outcomes of the National Achievement Tests (NAT) [@cat19]. Since the school year 2013--2014, the national average in the NAT obtained by Grade 10 learners has been continuously decreasing [@agu19]. To demonstrate, the overall mean percentage score (MPS) gained by our junior high school takers was 51.41 in 2013, 53.77 in 2014, 49.48 in 2015, 44.1 in 2016, 44.08 in 2017, and 44.59 in 2018. Unfortunately, these results are all within the 'low mastery' level[^1] [@alb19; @agu19]. Even the City of San Fernando, which obtained the highest total ranking in the 2018 NAT in Central Luzon with an overall MPS of 47.21 [@cit19], is still within the 'low mastery' range. The Grade 10 overall MPS is also a reflection of the performance of our high school students in Mathematics. In fact, even if the junior high school takers in the City of San Fernando landed on the fourth place in Mathematics with an MPS of 35.12 [@cit19], their score still falls within the 'very low mastery' level. These statistics are all evidence of the serious problem that the Philippines is facing regarding the low performance of high school students in Mathematics . 
+
+[^1]: The NAT scores are interpreted in the following manner: 'very low mastery' refers to MPS of 35 and below; 'low mastery', 36 to 65; 'average mastery', 66 to 85; 'moving towards mastery', 86 to 95; and 'mastered', 96 to 100 [@alb19]. 
+
+Given the low competence of our high school students in national and international examinations, it is necessary to determine the factors that contribute to more positive achievement outcomes in Mathematics. One such factor is attitude. 
+   
+<!-- First  address the  problem!  State the overall area of concern (populations-at-risk for injustice or  discrimination; need for more functional affiliations for individuals and groups; unethical policies/practices; lack of knowledge in  the field, etc.). -->
+
+
+<!--  Arouse the  reader’s interest; tell the reader what to expect in the rest of your paper.  Provide  brief statistics to indicate the incidence of the problem.  -->
+
+<!-- 
+Grade 10 MPS of 44.59 improved by 0.51 in NAT 2018 over the score in the 2017 of 44.08. fall under the “low mastery” level in the NAT. Grade 10 takers were steady at the “low mastery” range with 51.41 MPS in 2013, 53.77 in 2014 and 49.48 in 2015. The descriptive equivalent of NAT scores are as follows: 35 below, very low mastery; 36 to 65, low mastery; 66 to 85, average mastery; 86 to 95, moving towards mastery; 96 to 100, mastered. [@alb19] 
+
+NAT scores were low during the school year 2016-2017 with Grade 10 students were graded at 44.1%.The performance was slightly lower than the 44.7% average, in the 2015-2016 school year.a decline in the overall NAT average for Grade 10 students since 2013-2014. [@agu19] 
+
+DepEd, on Wednesday, December 4, issued a statement following the result of the 2018 Programme for International Student Assessment (Pisa) Survey, wherein the Philippines ranked low in reading comprehension, mathematics, and science. According to the survey, the Philippines scored 340 points in reading comprehension. The country is also second-lowest in mathematics with 353 points and science with 357 points. It is below the 487 point-average for reading, while 489 for mathematics and science.
+the Pisa 2018 tested around 600,000 15-year-old students, 
+A total of 79 countries and economies participated in the 2018 Pisa Survey, conducted by the Organisation for Economic Co-operation and Development (OECD), an intergovernmental economic organization.[@lle19] 
+
+THE 2018 Programme for International Student Assessment (PISA) of the Organization for Economic Co-operation and Development results revealed that the Philippines scored 353 in Mathematics, 357 in Science, and 340 in Reading, all below the average of participating OECD countries. These figures also reflect the learners' performance in the National Achievement Test,[@cat19] 
+
+After its historic feat last year, capping the 2017 National Achievement Test (NAT) in Central Luzon, the City of San Fernando once again outdid other 19 divisions in Central Luzon as it topped the NAT overall ranking for 2018. For elementary, the city garnered an MPS of 42.81 in Mathematics. Garnering an overall MPS of 47.21, the city meanwhile ranked fourth for Junior High School level with an MPS of 35.12 in Mathematics. for Senior High School level where the city also landed on fourth rank. 29.66 in Mathematics. For the overall MPS, combining all three levels, the city garnered 3.00 Mean Rank, the highest among 20 divisions in the region.[@cit19] 
+-->
+ 
+<!-- We figured among the worst five
+countries in the achievement tests in the
+1995, 1999 and 2003 Trends in
+International Mathematics and Science
+Study. [@gun20]  -->
+
+<!-- 
+Grade 10 MPS
+2018 44.59 
+2017 44.08
+2016 44.1
+2015 49.48
+2014 53.77 
+2013 51.41 
+[@alb19; @agu19] 
+ -->
+
+
+
+<!-- 
+The country is  second-lowest in mathematics with 353 points in the  2018 Programme for International Student Assessment (Pisa) Survey. It is below the 489 point-average for mathematics. the Pisa 2018 tested around 600,000 15-year-old students from a total of 79 countries and economies that  participated. [@lle19] PISA results revealed that the Philippines scored below the average of participating OECD (Organization for Economic Co-operation and Development) countries. These figures also reflect the learners' performance in the National Achievement Test,[@cat19]  -->
+
+<!-- the City of San Fernando topped the NAT overall ranking for 2018 in Central Luzon. Garnering an overall MPS of 47.21, the city  ranked fourth for Junior High School level with an MPS of 35.12 in Mathematics. [@cit19]  -->
+
+<!--   Next, discuss how this  problem  area affects individuals, communities, and society as a whole (what are issues of physical and economic health).  The potential utility of your study can be:  1) an addition to current knowledge of a problem  or a vulnerable population;  2) to put theory to an empirical test; 3) to better understand the relationship between variables (e.g., adherence and technology); or 4) to determine the effectiveness of a treatment  method, technology, or program.   --> 
+
+
+<!-- As you begin, you need to share your  theory base  with the readers so they understand how what you are presenting is influenced by that  theory base. As you read articles on your topic look for what other authors have to say about a theoretical framework for understand the problem  and pointing a direction for solutions. The researchers state  their initial hypotheses. -->
+
+<!-- Make sure it is clear to the reader how information is related to your experimental hypotheses or procedure. So, if you are using their method, then talk about their method;  if they found similar results, talk about their results; if they operationally defined their DV like you want to, then  talk about that, etc. To make this section of your paper effective, you should explicitly relate information from  various sources to each other and to your proposed research. After you discuss past research, you should make it clear how your study is the next  logical one, that  your study improves upon past studies, that your study fills obvious holes left by the others. The researchers supply background information by  discussing past  research on  the  topic. The researchers explain  how their  study will  add  to past  research on  the  topic -->
+
+
+
+## Attitudes toward Mathematics and their Effects
+```{r child = './chap1-atm-effects.Rmd'}
+``` 
+
+## Factors Affecting Attitudes toward Mathematics
+```{r child = './chap1-factors-atm.Rmd'}
+``` 
+
+## Changing Attitudes
+```{r child = './chap1-changing-attitudes.Rmd'}
+``` 
+
+## Limitations of These Studies
+```{r child = './chap1-limitations.Rmd'}
+``` 
+
+## The Concept and Phenomenon of ``Math Hugot''
+```{r child = './chap1-hugot-concept.Rmd'}
+``` 
+ 
+<!-- In the closing two – three paragraph of the  introduction, establish  the need for future study related to this topic.  That is, why did you decide to review this topic?   What did your review of literature tell you (summary)?    What  do we need to study next to advance knowledge in this area?   
+
+After you present what is already known,  make your case for your  research either answering a new question, getting  a new answer to an old question, answering a question about a new population, etc. After you have made your case that your research is going to give new information, you will summarize the major points.   Remember that the Introduction discusses the problem.  The review of literature should concentrate on solutions  (those that exist, those that are still required).  Finally, you will formulate (in the last  sentence) your research question or your hypothesis. -->
+
+
+This research proposal attempts to determine the effectiveness of ``Math Hugot'' as an intervention for improving the attitudes toward Mathematics among the Grade 10 students of Sauyo High School. The main questions to be  explored are: (1) What is the mean 
